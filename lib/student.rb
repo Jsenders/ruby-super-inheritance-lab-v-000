@@ -1,5 +1,5 @@
-class Students 
-  def hello 
+class Students
+  def hello
     puts "Hey there! I'm so excited to learn stuff."
   end
 
